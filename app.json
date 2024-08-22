@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "UberClone",
-    "slug": "UberClone",
+    "name": "Twende",
+    "slug": "twende",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,8 +9,8 @@
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "contain" ,
+      "backgroundColor": "#ffffff"   
     },
     "ios": {
       "supportsTablet": true
